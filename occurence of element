@@ -1,0 +1,5 @@
+from collections import Counter
+lst = [2,4,3,5,2,4,2,4,2,4,2,3,2,2]
+x = 4
+d = Counter(lst)
+print("{} occured {} times".format(x,d[x]))

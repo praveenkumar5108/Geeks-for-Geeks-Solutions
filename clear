@@ -1,0 +1,4 @@
+geek = [23,99,00,23]
+print(geek)
+geek.clear()
+print(geek)

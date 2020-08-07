@@ -1,0 +1,5 @@
+test_list = [23,77,43,12,13]
+if(43 in test_list):
+  print("yes")
+else:
+  print("no")

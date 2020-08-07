@@ -1,0 +1,5 @@
+lst = [33,34,22,56,2223]
+for i in lst:
+  if i%2 == 0:
+    lst.remove(i)
+print(lst)

@@ -1,0 +1,5 @@
+def Reverse(lst):
+  return [ele for ele in reversed(lst)]
+
+lst = [23,44,22,1,2,24,42,3223]
+print(Reverse(lst))

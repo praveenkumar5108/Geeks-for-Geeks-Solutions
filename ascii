@@ -1,0 +1,2 @@
+p = 'K'
+print("Ascii value of" + p + "is",ord(p))
